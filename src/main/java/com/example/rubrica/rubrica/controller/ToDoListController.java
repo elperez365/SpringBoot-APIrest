@@ -15,7 +15,7 @@ import java.util.Optional;
 
 @CrossOrigin("http://127.0.0.1:5500")
 @RestController
-@RequestMapping("/api/v2")
+@RequestMapping("/api/todolist")
 
 public class ToDoListController {
 
